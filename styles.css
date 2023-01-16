@@ -1,3 +1,18 @@
 .links {
     font-size: 24px;
+    text-align: center;
+}
+
+.links .product {
+    height: auto;
+    width: 200px;
+}
+
+.font {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.product {
+    height: auto;
+    width: 400px;
 }
